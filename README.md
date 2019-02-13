@@ -45,8 +45,6 @@ O desafio consiste em replicar o site **Freelancer** e o resultado desejado é e
 
 * O sublinhado com estrela que aparece em algumas seções do site, no endereço original, foi feita com um ícone e pseudo-elementos (`:after`, `:before`). Este é um desafio divertido, sendo assim não se preocupe em focar nesta parte de início, ma vez que não é o objetivo principal do desafio! :)
 
-* Pode conferir o [site original](https://blackrockdigital.github.io/startbootstrap-freelancer/) para que tenha uma ideia do resultado final.
-
   > Nota: o site original tem certos efeitos e funcionalidades que estão fora do alcance desse desafio. Mantenha o foco em obter um leiaute o mais próximo possível, usando o que aprendemos até agora :)
 
 ## Leve em consideração:

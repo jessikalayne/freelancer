@@ -44,14 +44,28 @@ body {
     justify-content: center;
     height: 635px;
 }
-.home line {
-    width: 500px;
-    height: 10px;
+
+.home h1 {
+    font-size: 70px;
+    font-family: "Montserrat";
+    color: white
+}
+
+.home p {
+    font-size: 30px;
+    font-family: "Lato";
+    color: white;
+}
+
+.line {
+    width: 300px;
+    height: 5px;
     background-color: white;
-    margin: 100px auto 0 auto;
+    margin: 5x auto 0 auto;
     position: relative;
 }
-.home line .fa-star {
+  
+.line .fa-star {
     font-size: 27px;
     color: white;
     position: absolute;
@@ -59,18 +73,16 @@ body {
     left: 50%;
     margin-top: -25px;
     margin-left: -25px;
-    background: #1971c2;
+    background: #18bc9c;
     padding: 10px;
-  }
-
-.home h1{
-    font-size: 70px;
-    font-family: "Montserrat";
-    color: white;
 }
-
 .home p {
     font-size: 30px;
     font-family: "Lato";
     color: white;
+}
+.portfolio {
+	display: flex;
+	justify-content: center;
+	width: 100%;
 }
